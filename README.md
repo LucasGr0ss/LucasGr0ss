@@ -4,11 +4,11 @@
 
 **Português (Brasil)**
 
-Opa, tranquilo? Meu nome é Lucas, tenho 14 anos e sou natural do Rio Grande do Sul. Desde cedo desenvolvi interesse na área da T.I, e sempre fui fascinado nela. Ainda em fase escolar, continuo no meu aprendizado contínuo de programação e áreas da informática, com meu foco de carreira sendo se tornar um especialista em Segurança Cibernética.
+Opa, tranquilo? Meu nome é Lucas, tenho 15 anos e sou natural do Rio Grande do Sul. Desde cedo desenvolvi interesse na área da T.I, e sempre fui fascinado nela. Ainda em fase escolar, continuo no meu aprendizado contínuo de programação e áreas da informática, com meu foco de carreira sendo se tornar um especialista em Segurança Cibernética.
 
 **English (United States)**
 
-Hey, how's it going? My name is Lucas, I'm 14 years old, and I'm from Rio Grande do Sul. From an early age, I developed an interest in IT, and I've always been fascinated by it. Still in school, I continue my ongoing learning in programming and computer science, with my career focus being to become a cybersecurity specialist.
+Hey, how's it going? My name is Lucas, I'm 15 years old, and I'm from Rio Grande do Sul. From an early age, I developed an interest in IT, and I've always been fascinated by it. Still in school, I continue my ongoing learning in programming and computer science, with my career focus being to become a cybersecurity specialist.
 
 <p align="left">
     <a href="https://github.com/LczGross?tab=repositories&sort=stargazers">
