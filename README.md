@@ -36,14 +36,6 @@ Hey, how's it going? My name is Lucas, I'm 15 years old, and I'm from Rio Grande
 /> 
 <img 
     align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
