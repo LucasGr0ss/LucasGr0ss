@@ -15,10 +15,10 @@ Hey, how's it going? My name is Lucas, I'm 15 years old, and I'm from Rio Grande
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LczGross?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LucasGr0ss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
         <a href="https://github.com/LucasGr0ss?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LczGross?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LucasGr0ss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     </a>
 </p>
 
